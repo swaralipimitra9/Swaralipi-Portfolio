@@ -1,0 +1,1 @@
+Add your professional portrait to this folder and name it profile.jpg. A vertical portrait works best (roughly 3:4 ratio). The homepage already references this filename.
