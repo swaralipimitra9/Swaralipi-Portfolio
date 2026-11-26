@@ -1,4 +1,5 @@
 const articles = [
+ {title:"Is Your Indian Diet Really Balanced?",category:"Nutrition",date:"2026-11-26",excerpt:"An examination of common patterns in traditional Indian meals, nutritional gaps and practical ways to improve balance through portions and fruit inclusion.",url:"indian-diet-balanced.html",readTime:"6 min read"},
  {title:"Balanced Nutrition: Understanding the Basics",category:"Nutrition",date:"2026-11-23",excerpt:"A practical introduction to dietary variety, balance, adequacy and the role of everyday food choices.",url:"balanced-nutrition-basics.html",readTime:"5 min read"},
  {title:"How to Read a Research Article Critically",category:"Literature",date:"2026-11-23",excerpt:"A framework for evaluating a research question, methods, findings and limitations when reading academic literature.",url:"reading-research-critically.html",readTime:"4 min read"},
  {title:"Writing Clearly About Complex Topics",category:"Literature",date:"2026-11-23",excerpt:"Practical ways to organise specialist information so readers can understand the message without losing important meaning.",url:"clear-writing-complex-topics.html",readTime:"4 min read"}
