@@ -7,7 +7,6 @@ PAGES
 - about.html: About
 - services.html: Services
 - blog.html: Blog with ten subject categories
-- portfolio.html: Portfolio
 - contact.html: Contact
 
 BLOG CATEGORIES
